@@ -62,4 +62,4 @@ class Server:
             'page_size': len(page_data),
             'data': page_data,
         }
-        return page_info#!/usr/bin/python3
+        return page_info

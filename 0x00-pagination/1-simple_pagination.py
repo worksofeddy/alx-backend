@@ -43,4 +43,4 @@ class Server:
         data = self.dataset()
         if start > len(data):
             return []
-        return data[start:end]#!/usr/bin/python3
+        return data[start:end]
